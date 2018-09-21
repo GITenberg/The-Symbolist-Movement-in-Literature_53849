@@ -1,0 +1,33 @@
+_repo: The-Symbolist-Movement-in-Literature_53849
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Symons, Arthur
+    birthdate: 1865
+    deathdate: 1945
+    gutenberg_agent_id: '347'
+    url: http://www.gutenberg.org/2009/agents/347
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Symons
+description: ''
+gutenberg_issued: '2016-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53849'
+  lccn: '19004527'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French literature -- 19th century -- History and criticism'
+- !lcsh 'Symbolism (Literary movement) -- France'
+- GITenberg
+tableOfContents: Introduction -- Balzac -- Prosper Mérimée -- Gérard de Nerval --
+  Théophile Gautier -- Gustave Flaubert -- Charles Baudelaire -- Edmond and Jules
+  de Goncourt -- Villiers de l'Isle-Adam -- Léon Cladel -- A note on Zola's method
+  -- Stéphane Mallarmé -- Paul Verlaine -- I. Joris-Karl Huysmans -- II. The later
+  Huysmans -- Arthur Rimbaud -- Jules Laforgue -- Maeterlinck as a mystic -- Conclusion
+  -- Bibliography and notes -- Translations.
+title: The Symbolist Movement in Literature
+url: http://www.gutenberg.org/ebooks/53849
